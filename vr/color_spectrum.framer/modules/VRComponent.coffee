@@ -292,10 +292,7 @@ class exports.VRComponent extends Layer
 			side.name = sideNames[index]
 			side.width = side.height = cubeSide
 			side.superLayer = @world
-			side.html = sideNames[index]
-			side.color = "white"
-			side._backgroundColor = colors[index]
-			side.backgroundColor = colors[index]
+			side.backgroundColor = ''
 			side.style =
 				lineHeight: "#{cubeSide}px"
 				textAlign: "center"

@@ -29,11 +29,11 @@ framer/preview.png
 framer/style.css
 framer/version
 Icon
-images/back.jpg
-images/bottom.jpg
-images/front.jpg
-images/left.jpg
-images/right.jpg
-images/top.jpg
+images/back.png
+images/bottom.png
+images/front.png
+images/left.png
+images/right.png
+images/top.png
 index.html
 modules/VRComponent.coffee
