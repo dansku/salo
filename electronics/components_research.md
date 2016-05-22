@@ -1,4 +1,6 @@
-# Led Research
+# Component Research
+
+## LED
 
 http://aliexpress.com/store/product/10pcs-High-Power-LED-Chip-1W-COB-LED-Beads-Natural-Cool-Warm-White-Red-Blue-Green/1913069_32636756111.html
 
@@ -9,7 +11,7 @@ http://aliexpress.com/store/product/10pcs-High-Power-LED-Chip-1W-COB-LED-Beads-N
 | Blue       | 460-470nm   | 3.2 - 3.4 V | 350mA | 35-45LM   |
 | Warm White | 3000-3500 K | 3.2 - 3.4 V | 350mA | 100-110LM |
 
-##Idea:
+### Idea:
 
 | Color       | Number  | Total Current | Total Lumens |
 |-------------|---------|---------------|--------------|
@@ -19,3 +21,10 @@ http://aliexpress.com/store/product/10pcs-High-Power-LED-Chip-1W-COB-LED-Beads-N
 | Blue        | 8       | 2.8 A         | 360 LM       |
 | TOTAL (max) | 22 Leds | 7.7 A         | 1480 LM      |
 
+
+## Transistor
+
+NVF3055L108
+http://docs-europe.electrocomponents.com/webdocs/0b36/0900766b80b360d0.pdf
+Max drain current: 3A
+Footprint: SOT−223
