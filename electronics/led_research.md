@@ -16,6 +16,6 @@ http://aliexpress.com/store/product/10pcs-High-Power-LED-Chip-1W-COB-LED-Beads-N
 | Warm White  | 4       | 1.4 A         | 400 LM       |
 | Red         | 6       | 2.1 A         | 360 LM       |
 | Green       | 4       | 1.4 A         | 360 LM       |
-| Blue        | 8       | 2.8A          | 360 LM       |
+| Blue        | 8       | 2.8 A         | 360 LM       |
 | TOTAL (max) | 22 Leds | 7.7 A         | 1480 LM      |
 
