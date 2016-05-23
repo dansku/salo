@@ -28,3 +28,13 @@ NVF3055L108
 http://docs-europe.electrocomponents.com/webdocs/0b36/0900766b80b360d0.pdf
 Max drain current: 3A
 Footprint: SOT−223
+
+## Transistor SO-8 Chips
+
+Compatible pinouts (DMN3024LSD has Eagle part):
+
+IRF7303, 30V, 4.9A
+http://cdn-reichelt.de/documents/datenblatt/A200/DS_IRF7303.pdf
+
+DMN3024LSD, 30V, 5.7A
+http://www.diodes.com/_files/datasheets/DMN3024LSD.pdf
