@@ -127,7 +127,7 @@ protected:
         wifiManager.addParameter(&credential_parameter);
 
         THINGER_DEBUG("_CONFIG", "Starting Webconfig...");
-        if (!wifiManager.autoConnect("Moodlamp", "password")) { // here we changed the password for the system
+        if (!wifiManager.autoConnect("Salo Lamp", "password")) { // here we changed the password for the system
             THINGER_DEBUG("NETWORK", "Failed to Connect! Resetting...");
             delay(3000);
             ESP.reset();
