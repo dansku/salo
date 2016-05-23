@@ -29,7 +29,7 @@ int color[4] = {0,0,0,0};               // Red Green Blue White
 // Set New Color
 void setColor(int* leds,int* color)
 {
-  for(int i = 0; i <= 3; i++)
+  for(int i = 0; i <= 0; i++)
   {
     Serial.print("Changing LED: ");
     Serial.print(leds[i]);
@@ -86,7 +86,7 @@ void setup()
     color[2] = in["blue"];
     color[3] = in["white"];
 
-    fadeToColor(leds, color, oldC, fadeSpeed);
+    fadeToColor(leds, oldC, color, fadeSpeed);
 
   };
 }
