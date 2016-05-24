@@ -25,17 +25,12 @@ uint8_t fadeSpeed = 15;                                                         
 uint8_t oldC[4]   = {0,0,0,0};                                                    // Old colors
 uint8_t color[4]  = {0,0,0,0};                                                    // Red Green Blue White
 
-
 // Set New Color
 void setColor(uint8_t* leds, uint8_t* color)
 {
   for(int i = 0; i <= 3; i++)
   {
-    Serial.print("Changing LED: ");
-    Serial.print(leds[i]);
-    Serial.print(" to ");
-    Serial.println(color[i]);
-    Serial.println("---");
+    printf("Changing LED %d to %d \n", leds[i], color[i]);
   }
 }
 
@@ -63,12 +58,12 @@ void setup()
 
   // Serial YO!
   Serial.begin(115200);
-  Serial.println("Sale lamp starting...");
+  printf("Lamp starting \n");
 
   //Reset option
   if(reset==1)
   {
-    Serial.println("RESET ON!");
+    printf("RESET ON \n");
     WiFiManager wifiManager;
     wifiManager.resetSettings();
   }
