@@ -86,14 +86,7 @@ void setup()
     color[3] = in["white"];
     color[4] = in["fade"];
 
-    if(color[4]==1)
-    {
-      fadeToColor(leds, oldC, color, fadeSpeed);
-    }
-    else
-    {
-      setColor(leds, color);
-    }
+    color[4] == 1 ? fadeToColor(leds, oldC, color, fadeSpeed) : setColor(leds, color);  // Select if we want fade or not
   };
 }
 
