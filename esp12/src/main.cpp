@@ -18,12 +18,11 @@ ThingerWebConfig thing;
 
 // Pins
 uint8_t leds[4] = {13,12,14,16};                                                  // RED(D7) - GREEN(D6) - BLUE(D5) - WHITE(D0)
-uint8_t reset = 0;                                                                // Should we reset Wifi and Module settings
+uint8_t reset   = 0;                                                              // Should we reset Wifi and Module settings
 
 // Variables
 uint8_t fadeSpeed = 15;                                                           //fading delay
-uint8_t oldC[4]   = {0,0,0,0};                                                    // Old colors
-uint8_t color[4]  = {0,0,0,0};                                                    // Red Green Blue White
+uint8_t oldC[4], color[5];
 
 // Set New Color
 void setColor(uint8_t* leds, uint8_t* color)
@@ -50,6 +49,25 @@ void fadeToColor(uint8_t* leds, uint8_t* startColor, uint8_t* endColor, int fade
     uint8_t newColor[]  = {newRed, newGreen, newBlue, newWhite};                  //Define an RGB color array for the new color
     setColor(leds, newColor);
     delay(fadeSpeed);                                                             //Set the LED to the calculated value
+  }
+}
+
+// Function to Convert HSL to RGB, return an array
+uint8_t HSLtoRGB(uint16_t H, double_t S, double_t L)
+{
+  // 0 <= H <= 360 in degrees
+  // 0.00 <= S <= 1
+  // 0.00 <= L <= 1
+  uint8_t rgb[3];
+
+  // First Case
+  if(S == 0)
+  {
+    for(int i = 0; i < 3; i++)
+    {
+      rgb[i] = ceil(L * 255);
+    }
+    return *rgb;
   }
 }
 
@@ -82,8 +100,14 @@ void setup()
     color[2] = in["blue"];
     color[3] = in["white"];
     color[4] = in["fade"];
+    color[5] = in["fadeSpeed"];
 
     color[4] == 1 ? fadeToColor(leds, oldC, color, fadeSpeed) : setColor(leds, color);  // Select if we want fade or not
+
+    if(color[4] == 1)
+    {
+      uint8_t r[3] = {0,0,0};
+    }
   };
 }
 
