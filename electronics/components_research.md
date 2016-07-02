@@ -21,6 +21,14 @@ http://aliexpress.com/store/product/10pcs-High-Power-LED-Chip-1W-COB-LED-Beads-N
 | Blue        | 8       | 2.8 A         | 360 LM       |
 | TOTAL (max) | 22 Leds | 7.7 A         | 1480 LM      |
 
+### Final LED Count
+| Color       | Number  |
+|-------------|---------|
+| Warm White  | 8       |
+| Red         | 6       |
+| Green       | 4       |
+| Blue        | 8       |
+| TOTAL (max) | 26 Leds |
 
 ## Transistor
 
