@@ -46,3 +46,7 @@ http://cdn-reichelt.de/documents/datenblatt/A200/DS_IRF7303.pdf
 
 DMN3024LSD, 30V, 5.7A
 http://www.diodes.com/_files/datasheets/DMN3024LSD.pdf
+
+## Power Supply
+
+https://www.reichelt.de/Wandler-Module-AC-DC/IRM-20-12/3/index.html?&ACTION=3&LA=2&ARTICLE=157863&GROUPID=7242&artnr=IRM-20-12
