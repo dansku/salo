@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P6
+Added Component: Designator=P5(HDR1X2)
+Added Pin To Net: NetName=GC Pin=P1-3
+Added Pin To Net: NetName=BC Pin=P1-4
+Added Pin To Net: NetName=VCC Pin=P5-1
+Added Pin To Net: NetName=GPIO16 Pin=P5-2
+Added Pin To Net: NetName=GPIO15 Pin=Q1-2
+Added Pin To Net: NetName=GPIO13 Pin=Q4-2
+Added Pin To Net: NetName=GPIO15 Pin=R4-2
+Added Pin To Net: NetName=GPIO13 Pin=R7-2
+Added Pin To Net: NetName=BC Pin=U1-5
+Added Pin To Net: NetName=GC Pin=U1-6
+Added Member To Class: ClassName=SALO_CONTROLLER_PCB Member=Component P5 Header 2

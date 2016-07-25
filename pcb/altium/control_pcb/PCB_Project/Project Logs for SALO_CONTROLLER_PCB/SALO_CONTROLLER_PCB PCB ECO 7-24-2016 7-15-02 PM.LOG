@@ -1,0 +1,59 @@
+Added Component: Designator=C3(C0805)
+Added Component: Designator=P1(HDR1X8)
+Added Component: Designator=P2(HDR1X8)
+Added Component: Designator=P3(HDR1X6)
+Added Component: Designator=P4(HDR1X6)
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=ADC Pin=P1-7
+Added Net: Name=ADC
+Added Pin To Net: NetName=CS0 Pin=P3-6
+Added Net: Name=CS0
+Added Pin To Net: NetName=DTR Pin=P2-5
+Added Pin To Net: NetName=DTR Pin=P4-4
+Added Net: Name=DTR
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=P2-8
+Added Pin To Net: NetName=GND Pin=P4-6
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO2 Pin=P2-6
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=GPIO4 Pin=P2-4
+Added Net: Name=GPIO4
+Added Pin To Net: NetName=GPIO5 Pin=P2-3
+Added Net: Name=GPIO5
+Added Pin To Net: NetName=GPIO9 Pin=P3-4
+Added Net: Name=GPIO9
+Added Pin To Net: NetName=GPIO10 Pin=P3-3
+Added Net: Name=GPIO10
+Added Pin To Net: NetName=GPIO12 Pin=P1-3
+Added Net: Name=GPIO12
+Added Pin To Net: NetName=GPIO13 Pin=P1-2
+Added Net: Name=GPIO13
+Added Pin To Net: NetName=GPIO14 Pin=P1-4
+Added Net: Name=GPIO14
+Added Pin To Net: NetName=GPIO15 Pin=P2-7
+Added Net: Name=GPIO15
+Added Pin To Net: NetName=MISO Pin=P3-5
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P3-2
+Added Net: Name=MOSI
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=RESET Pin=P1-5
+Added Pin To Net: NetName=RESET Pin=P1-8
+Added Net: Name=RESET
+Added Pin To Net: NetName=RTS Pin=P1-6
+Added Pin To Net: NetName=RTS Pin=P4-3
+Added Net: Name=RTS
+Added Pin To Net: NetName=RX Pin=P2-1
+Added Pin To Net: NetName=RX Pin=P4-1
+Added Net: Name=RX
+Added Pin To Net: NetName=SCLK Pin=P3-1
+Added Net: Name=SCLK
+Added Pin To Net: NetName=TX Pin=P2-2
+Added Pin To Net: NetName=TX Pin=P4-2
+Added Net: Name=TX
+Added Pin To Net: NetName=VCC Pin=P4-5
+Added Net: Name=VCC
+Added Class: Name=SALO_CONTROLLER_PCB

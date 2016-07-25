@@ -1,0 +1,127 @@
+Added Component: Designator=B1(1W LED)
+Added Component: Designator=B2(1W LED)
+Added Component: Designator=B3(1W LED)
+Added Component: Designator=B4(1W LED)
+Added Component: Designator=B5(1W LED)
+Added Component: Designator=B6(1W LED)
+Added Component: Designator=B7(1W LED)
+Added Component: Designator=B8(1W LED)
+Added Component: Designator=G1(1W LED)
+Added Component: Designator=G2(1W LED)
+Added Component: Designator=G3(1W LED)
+Added Component: Designator=G4(1W LED)
+Added Component: Designator=P1(HDR2X5)
+Added Component: Designator=P2(HDR2X5)
+Added Component: Designator=R1(1W LED)
+Added Component: Designator=R2(1W LED)
+Added Component: Designator=R3(1W LED)
+Added Component: Designator=R4(1W LED)
+Added Component: Designator=R5(1W LED)
+Added Component: Designator=R6(1W LED)
+Added Component: Designator=W1(1W LED)
+Added Component: Designator=W2(1W LED)
+Added Component: Designator=W3(1W LED)
+Added Component: Designator=W4(1W LED)
+Added Component: Designator=W5(1W LED)
+Added Component: Designator=W6(1W LED)
+Added Component: Designator=W7(1W LED)
+Added Component: Designator=W8(1W LED)
+Added Pin To Net: NetName=BLUE Pin=B7-2
+Added Pin To Net: NetName=BLUE Pin=B8-2
+Added Pin To Net: NetName=BLUE Pin=P1-4
+Added Pin To Net: NetName=BLUE Pin=P1-7
+Added Pin To Net: NetName=BLUE Pin=P2-4
+Added Pin To Net: NetName=BLUE Pin=P2-7
+Added Net: Name=BLUE
+Added Pin To Net: NetName=GREEN Pin=G4-2
+Added Pin To Net: NetName=GREEN Pin=P1-5
+Added Pin To Net: NetName=GREEN Pin=P1-6
+Added Pin To Net: NetName=GREEN Pin=P2-5
+Added Pin To Net: NetName=GREEN Pin=P2-6
+Added Net: Name=GREEN
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=B3-1
+Added Net: Name=NetB1_2
+Added Pin To Net: NetName=NetB2_2 Pin=B2-2
+Added Pin To Net: NetName=NetB2_2 Pin=B4-1
+Added Net: Name=NetB2_2
+Added Pin To Net: NetName=NetB3_2 Pin=B3-2
+Added Pin To Net: NetName=NetB3_2 Pin=B5-1
+Added Net: Name=NetB3_2
+Added Pin To Net: NetName=NetB4_2 Pin=B4-2
+Added Pin To Net: NetName=NetB4_2 Pin=B6-1
+Added Net: Name=NetB4_2
+Added Pin To Net: NetName=NetB5_2 Pin=B5-2
+Added Pin To Net: NetName=NetB5_2 Pin=B7-1
+Added Net: Name=NetB5_2
+Added Pin To Net: NetName=NetB6_2 Pin=B6-2
+Added Pin To Net: NetName=NetB6_2 Pin=B8-1
+Added Net: Name=NetB6_2
+Added Pin To Net: NetName=NetG1_2 Pin=G1-2
+Added Pin To Net: NetName=NetG1_2 Pin=G2-1
+Added Net: Name=NetG1_2
+Added Pin To Net: NetName=NetG2_2 Pin=G2-2
+Added Pin To Net: NetName=NetG2_2 Pin=G3-1
+Added Net: Name=NetG2_2
+Added Pin To Net: NetName=NetG3_2 Pin=G3-2
+Added Pin To Net: NetName=NetG3_2 Pin=G4-1
+Added Net: Name=NetG3_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R6-1
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetW1_2 Pin=W1-2
+Added Pin To Net: NetName=NetW1_2 Pin=W3-1
+Added Net: Name=NetW1_2
+Added Pin To Net: NetName=NetW2_2 Pin=W2-2
+Added Pin To Net: NetName=NetW2_2 Pin=W4-1
+Added Net: Name=NetW2_2
+Added Pin To Net: NetName=NetW3_2 Pin=W3-2
+Added Pin To Net: NetName=NetW3_2 Pin=W5-1
+Added Net: Name=NetW3_2
+Added Pin To Net: NetName=NetW4_2 Pin=W4-2
+Added Pin To Net: NetName=NetW4_2 Pin=W6-1
+Added Net: Name=NetW4_2
+Added Pin To Net: NetName=NetW5_2 Pin=W5-2
+Added Pin To Net: NetName=NetW5_2 Pin=W7-1
+Added Net: Name=NetW5_2
+Added Pin To Net: NetName=NetW6_2 Pin=W6-2
+Added Pin To Net: NetName=NetW6_2 Pin=W8-1
+Added Net: Name=NetW6_2
+Added Pin To Net: NetName=RED Pin=P1-3
+Added Pin To Net: NetName=RED Pin=P1-8
+Added Pin To Net: NetName=RED Pin=P2-3
+Added Pin To Net: NetName=RED Pin=P2-8
+Added Pin To Net: NetName=RED Pin=R6-2
+Added Net: Name=RED
+Added Pin To Net: NetName=VCC Pin=B1-1
+Added Pin To Net: NetName=VCC Pin=B2-1
+Added Pin To Net: NetName=VCC Pin=G1-1
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=VCC Pin=P1-10
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=VCC Pin=P2-10
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=W1-1
+Added Pin To Net: NetName=VCC Pin=W2-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=WHITE Pin=P1-2
+Added Pin To Net: NetName=WHITE Pin=P1-9
+Added Pin To Net: NetName=WHITE Pin=P2-2
+Added Pin To Net: NetName=WHITE Pin=P2-9
+Added Pin To Net: NetName=WHITE Pin=W7-2
+Added Pin To Net: NetName=WHITE Pin=W8-2
+Added Net: Name=WHITE
+Added Class: Name=salo_led_pcb
+Added Room: Name=salo_led_pcb

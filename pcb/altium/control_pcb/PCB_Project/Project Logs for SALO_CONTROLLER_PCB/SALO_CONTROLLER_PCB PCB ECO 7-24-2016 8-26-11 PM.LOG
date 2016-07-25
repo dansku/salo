@@ -1,0 +1,12 @@
+Added Component: Designator=P?(HDR2X5_CEN)
+Added Pin To Net: NetName=R Pin=P?-1
+Added Pin To Net: NetName=G Pin=P?-2
+Added Pin To Net: NetName=B Pin=P?-3
+Added Pin To Net: NetName=W Pin=P?-4
+Added Pin To Net: NetName=VCC Pin=P?-5
+Added Pin To Net: NetName=R Pin=P?-6
+Added Pin To Net: NetName=G Pin=P?-7
+Added Pin To Net: NetName=B Pin=P?-8
+Added Pin To Net: NetName=W Pin=P?-9
+Added Pin To Net: NetName=VCC Pin=P?-10
+Added Member To Class: ClassName=SALO_CONTROLLER_PCB Member=Component P? Header 5X2A

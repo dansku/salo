@@ -1,0 +1,5 @@
+Added Component: Designator=Q?(DPAK)
+Added Pin To Net: NetName=VCC Pin=Q?-1
+Added Member To Class: ClassName=SALO_CONTROLLER_PCB Member=Component Q? MOSFET-N
+Added Member To Class: ClassName=SALO_CONTROLLER_PCB Member=Component R1 Res1
+Added Member To Class: ClassName=SALO_CONTROLLER_PCB Member=Component R2 Res1

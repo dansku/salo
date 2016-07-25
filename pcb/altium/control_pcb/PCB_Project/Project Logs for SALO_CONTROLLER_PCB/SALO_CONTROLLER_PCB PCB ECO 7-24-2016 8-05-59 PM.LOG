@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=VCC Pin=Q?-1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Added Component: Designator=Q2(DPAK)
+Added Component: Designator=Q3(DPAK)
+Added Component: Designator=Q4(DPAK)
+Added Component: Designator=R4(R0805)
+Added Component: Designator=R5(R0805)
+Added Component: Designator=R6(R0805)
+Added Component: Designator=R7(R0805)
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=BC Pin=R6-2
+Added Net: Name=BC
+Added Pin To Net: NetName=B Pin=Q3-1
+Added Net: Name=B
+Added Pin To Net: NetName=GC Pin=R5-2
+Added Net: Name=GC
+Added Pin To Net: NetName=G Pin=Q2-1
+Added Net: Name=G
+Added Pin To Net: NetName=RC Pin=R4-2
+Added Net: Name=RC
+Added Pin To Net: NetName=R Pin=Q1-1
+Added Net: Name=R
+Added Pin To Net: NetName=WC Pin=R7-2
+Added Net: Name=WC
+Added Pin To Net: NetName=W Pin=Q4-1
+Added Net: Name=W
+Added Member To Class: ClassName=SALO_CONTROLLER_PCB Member=Component Q2 MOSFET-N
+Added Member To Class: ClassName=SALO_CONTROLLER_PCB Member=Component Q3 MOSFET-N
+Added Member To Class: ClassName=SALO_CONTROLLER_PCB Member=Component Q4 MOSFET-N
+Added Member To Class: ClassName=SALO_CONTROLLER_PCB Member=Component R4 Res1
+Added Member To Class: ClassName=SALO_CONTROLLER_PCB Member=Component R5 Res1
+Added Member To Class: ClassName=SALO_CONTROLLER_PCB Member=Component R6 Res1
+Added Member To Class: ClassName=SALO_CONTROLLER_PCB Member=Component R7 Res1
