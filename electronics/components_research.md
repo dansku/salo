@@ -14,3 +14,9 @@ https://www.reichelt.de/Wandler-Module-AC-DC/IRM-20-12/3/index.html?&ACTION=3&LA
 
 ## LED Driver
 AL5801W6-7 ( http://www.mouser.com/ds/2/115/AL5801-218664.pdf ) 350mA
+VCC = 12V
+Vrset = 0.56V
+Iled = 350mA
+Rbias = 82.5kOhm -> http://www.mouser.de/ProductDetail/Vishay-Dale/CRCW040282K5FKED/?qs=sGAEpiMZZMtlubZbdhIBIAbDPbIXdjYGEdRvdo4K5no%3d
+Rest = 1.6Ohm -> http://www.mouser.de/ProductDetail/Panasonic/ERJ-8GEYJ1R6V/?qs=sGAEpiMZZMtlubZbdhIBINKPHGpBD%2fvfXndsG0%2fXRW8%3d
+
